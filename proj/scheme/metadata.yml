@@ -1,0 +1,14 @@
+---
+:id: 185758241
+:submitters:
+- :name: Yinghan Sun
+  :email: sun1051277173@berkeley.edu
+- :name: Weiqi Huang
+  :email: weiqi.huang@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-08-03 17:06:16.936650000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-08-03 10:06:16.936650000 Z
+:status: processed
+:score: 32.0
